@@ -1,5 +1,10 @@
 # Unicode Text
 
+> **This repository has moved.** Development continues in
+> [kanigsson/spark-world](https://github.com/kanigsson/spark-world), under
+> [`libs/unicode_text/`](https://github.com/kanigsson/spark-world/tree/main/libs/unicode_text).
+> This repository is no longer maintained.
+
 `Unicode_Text` is a SPARK-compatible UTF-8 text library under development.
 The complete design and implementation milestones are described in
 [`design.md`](design.md).
